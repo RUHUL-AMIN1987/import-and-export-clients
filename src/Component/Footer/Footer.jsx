@@ -120,7 +120,7 @@ const Footer = () => {
                 <a
                   href="#"
                   className="hover:text-primary hover:underline transition">
-                  Best Selling
+                  Best Selling Products
                 </a>
               </li>
               <li>
