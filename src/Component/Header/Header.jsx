@@ -68,7 +68,7 @@ const Header = () => {
               ? "text-primary font-medium"
               : "hover:text-primary focus:text-primary"
           }>
-          Add Product
+          Add Products
         </NavLink>
       </li>
     </>
