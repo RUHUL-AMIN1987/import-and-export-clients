@@ -20,7 +20,7 @@ const Hero = () => {
 
           <p className="mt-4 text-base-content/70 text-sm md:text-lg max-w-2xl mx-auto">
             Import and Export authentic local products easily across Bangladesh
-            with smart deals!
+            with smart deal!
           </p>
 
           <div className="mt-6 max-w-xl mx-auto">
