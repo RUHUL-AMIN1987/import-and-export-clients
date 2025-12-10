@@ -7,7 +7,7 @@ const ProductCard = ({ products }) => {
         <thead>
           <tr>
             <th>Image</th>
-            <th>Product Name</th>
+            <th>Products Name</th>
             <th>Price</th>
             <th>Origin</th>
             <th>Rating</th>
