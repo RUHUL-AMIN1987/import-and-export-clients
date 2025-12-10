@@ -31,8 +31,7 @@ const AboutUs = () => {
           <p className="text-base-content/80">
             With our services, you can import products from countries worldwide
             and export your local goods to gain new international customers.
-            Quality, safety, fair pricing, and timely delivery are the four core
-            principles guiding our operations.
+            Quality, safety, fair pricing, and timely delivery are the four core.
           </p>
           <div className="flex justify-center mt-6">
             <Link to="/about">
